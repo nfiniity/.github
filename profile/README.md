@@ -10,8 +10,8 @@ Our team comprises talented developers and engineers passionate about leveraging
 
 ## C-ITS Solutions
 
-All of our solutions are designed, developed, and distributed by our wholly owned subsidiary, cubesys GmbH.
-Find here more about our [C-ITS solutions](https://www.nfiniity.com/index.html#hardware-section) 
+All of our solutions are designed, developed, and distributed by our wholly owned subsidiary, [cubesys GmbH](https://github.com/cubesys-GmbH).
+Find here more about our [C-ITS solutions](https://www.nfiniity.com/index.html#hardware-section).
 
 ## Open-source Projects
 
