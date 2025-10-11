@@ -22,9 +22,15 @@ We lead the development of two key open-source projects:
 
 ### Vanetza
 Vanetza is an open-source implementation of the ETSI ITS protocol suite, providing the foundation for secure and interoperable V2X communication.
+Learn more here:
+- Website: [https://www.vanetza.org/](https://www.vanetza.org/)
+- GitHub: [https://github.com/riebl/vanetza](https://github.com/riebl/vanetza)
 
 ### Artery
 Artery enables V2X simulations based on ETSI ITS-G5 protocols like GeoNetworking and BTP. Single vehicles can be equipped with multiple ITS-G5 services through Artery's middleware, which also provides common facilities for these services.
+Learn more here:
+- Website: [http://artery.v2x-research.eu/](http://artery.v2x-research.eu/)
+- GitHub: [https://github.com/riebl/artery](https://github.com/riebl/artery)
 
 ## Get Involved
 
