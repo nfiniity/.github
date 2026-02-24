@@ -14,8 +14,8 @@ Our team comprises talented developers and engineers passionate about leveraging
 
 Our commercial hardware and product solutions are developed and distributed by our subsidiary **cubesys GmbH**.
 
-- Products: [C-ITS solutions](https://www.nfiniity.com/index.html#hardware-section)
-- cubesys GitHub: https://github.com/cubesys-GmbH  
+- Products: [https://www.nfiniity.com/index.html#hardware-section](https://www.nfiniity.com/index.html#hardware-section)
+- cubesys GitHub: [https://github.com/cubesys-GmbH]([https://www.nfiniity.com/index.html#hardware-section)](https://github.com/cubesys-GmbH)
 
 ---
 
