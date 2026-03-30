@@ -36,11 +36,13 @@ We lead and contribute to key open-source projects in the V2X ecosystem:
 
 ## Get Involved
 
-We believe in the power of collaboration and welcome contributions from the community. Whether you're a seasoned developer or just getting started, there are many ways to participate:
+We welcome contributions from the community!  
 
-- **Contribute Code:** Fork our repositories, make enhancements or fix bugs, and submit pull requests.
-- **Report Issues:** Encountered a bug or have a suggestion for improvement? Open an issue on the respective project repository.
-- **Provide Feedback:** Share your thoughts and ideas with us. Your feedback helps us improve and grow.
+- **Contribute Code:** Fork, enhance, or fix bugs and submit pull requests.  
+- **Report Issues:** Found a bug or have an idea? Open an issue.  
+- **Provide Feedback:** Share your thoughts—your input drives improvement.  
+
+[![Contribute](https://img.shields.io/badge/Contribute-Fork%20Repo-green?style=for-the-badge&logo=github)](https://github.com/nfiniity)
 
 ---
 
