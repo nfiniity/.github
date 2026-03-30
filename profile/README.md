@@ -1,5 +1,9 @@
 # nfiniity GmbH
 
+[![Website](https://img.shields.io/badge/website-nfiniity.com-blue?style=for-the-badge&logo=google-chrome)](https://nfiniity.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nfiniity-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/nfiniity) 
+[![Blog](https://img.shields.io/badge/blog-news-orange?style=for-the-badge&logo=ghost)](https://nfiniity.com/changelog.html)
+
 Welcome to the official GitHub organization of **nfiniity GmbH**.
 
 We accelerate innovation in **Cooperative Intelligent Transport Systems (C-ITS)** by delivering standards-based solutions for **Vehicle-to-Everything (V2X)** communication, simulation, and testing.
