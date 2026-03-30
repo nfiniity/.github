@@ -1,7 +1,7 @@
 # nfiniity GmbH
 
 [![Website](https://img.shields.io/badge/website-nfiniity.com-blue?style=for-the-badge&logo=google-chrome)](https://nfiniity.com) 
-[![Follow](https://img.shields.io/badge/LinkedIn-nfiniity-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/nfiniity) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/nfiniity) 
 [![Blog](https://img.shields.io/badge/blog-news-orange?style=for-the-badge&logo=ghost)](https://nfiniity.com/changelog.html)
 
 Welcome to the official GitHub organization of **nfiniity GmbH**!  
