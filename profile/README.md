@@ -44,11 +44,7 @@ We welcome contributions from the community!
 
 ---
 
-## Connect with Us
+## ⚡ Fun Fact
 
-Stay up to date with releases, news, and project updates:
-
-- Blog: [News and Blog](https://nfiniity.com/changelog.html)
-- LinkedIn: [nfiniity GmbH](https://www.linkedin.com/company/nfiniity)
-- Website: [https://www.nfiniity.com](https://nfiniity.com/)
+We believe in democratizing connected mobility for **vehicles, infrastructure, and micromobility**, combining cutting-edge V2X technology with open collaboration.
 
