@@ -42,8 +42,6 @@ We welcome contributions from the community!
 - **Report Issues:** Found a bug or have an idea? Open an issue.  
 - **Provide Feedback:** Share your thoughts—your input drives improvement.  
 
-[![Contribute](https://img.shields.io/badge/Contribute-Fork%20Repo-green?style=for-the-badge&logo=github)](https://github.com/nfiniity)
-
 ---
 
 ## Connect with Us
