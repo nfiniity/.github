@@ -25,13 +25,12 @@ Our commercial hardware and product solutions are developed and distributed by o
 
 We lead and contribute to key open-source projects in the V2X ecosystem:
 
-- **Vanetza** – ETSI-compliant ITS communication stack  
-  - Website: [https://www.vanetza.org/](https://www.vanetza.org/)
-  - GitHub: [https://github.com/riebl/vanetza](https://github.com/riebl/vanetza)
+| Project | Description | Website | GitHub |
+|---------|-------------|---------|--------|
+| **Vanetza** | ETSI-compliant ITS communication stack | [vanetza.org](https://www.vanetza.org/) | [riebl/vanetza](https://github.com/riebl/vanetza) |
+| **Artery** | V2X simulation framework for ETSI ITS-G5 | [artery.v2x-research.eu](http://artery.v2x-research.eu/) | [riebl/artery](https://github.com/riebl/artery) |
 
-- **Artery** – V2X simulation framework for ETSI ITS-G5  
-  - Website: [http://artery.v2x-research.eu/](http://artery.v2x-research.eu/)
-  - GitHub: [https://github.com/riebl/artery](https://github.com/riebl/artery)
+> 💡 Our open-source projects aim to accelerate innovation and foster collaboration across the connected mobility community.
 
 ---
 
