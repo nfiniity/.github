@@ -44,6 +44,6 @@ We welcome contributions from the community!
 
 ---
 
-## Our Mission
+## Our Vision
 
 We believe in democratizing connected mobility for **vehicles, infrastructure, and micromobility**, combining cutting-edge V2X technology with open collaboration.  
