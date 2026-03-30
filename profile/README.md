@@ -46,5 +46,4 @@ We welcome contributions from the community!
 
 ## Our Mission
 
-We are committed to **democratizing connected mobility** across vehicles, infrastructure, and micromobility.  
-By combining **cutting-edge V2X technology** with **open standards and collaborative development**, we enable **safer, smarter, and more sustainable transport systems worldwide**.
+We believe in democratizing connected mobility for **vehicles, infrastructure, and micromobility**, combining cutting-edge V2X technology with open collaboration.  
