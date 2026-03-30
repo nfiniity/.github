@@ -16,9 +16,9 @@ Through open standards and open-source collaboration, we empower researchers, de
 
 Our commercial hardware and product solutions are developed and distributed by our subsidiary **cubesys GmbH**.  
 
-[![Hardware](https://img.shields.io/badge/Products-Hardware-blue?style=for-the-badge)](https://www.nfiniity.com/index.html#hardware-section)  
-[![cubesys GitHub](https://img.shields.io/badge/GitHub-cubesys-Grey?style=for-the-badge&logo=github)](https://github.com/cubesys-GmbH)  
-
+- Products: [https://www.nfiniity.com/index.html#hardware-section](https://www.nfiniity.com/index.html#hardware-section)
+- cubesys GitHub: [https://github.com/cubesys-GmbH](https://github.com/cubesys-GmbH)
+- 
 ---
 
 ## Open-Source Projects
