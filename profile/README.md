@@ -1,53 +1,49 @@
 # nfiniity GmbH
 
-Welcome to the official GitHub organization of **nfiniity GmbH**.
+[![Website](https://img.shields.io/badge/website-nfiniity.com-blue?style=for-the-badge&logo=google-chrome)](https://nfiniity.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/nfiniity) 
+[![Blog](https://img.shields.io/badge/blog-news-orange?style=for-the-badge&logo=ghost)](https://nfiniity.com/changelog.html)
 
-We accelerate innovation in **Cooperative Intelligent Transport Systems (C-ITS)** by delivering standards-based solutions for **Vehicle-to-Everything (V2X)** communication, simulation, and testing.
+Welcome to the official GitHub organization of **nfiniity GmbH**!  
 
-Through open standards and open-source collaboration, we enable researchers, developers, and industry partners to build safer, smarter, and more sustainable mobility systems.
+We accelerate innovation in **Cooperative Intelligent Transport Systems (C-ITS)** by delivering standards-based solutions for **Vehicle-to-Everything (V2X)** communication, simulation, and testing.  
 
-Our team comprises talented developers and engineers passionate about leveraging technology to solve complex challenges.
+Through open standards and open-source collaboration, we empower researchers, developers, and industry partners to build **safer, smarter, and more sustainable mobility systems**.  
 
 ---
 
 ## C-ITS Solutions
 
-Our commercial hardware and product solutions are developed and distributed by our subsidiary **cubesys GmbH**.
+Our commercial hardware and product solutions are developed and distributed by our subsidiary **cubesys GmbH**.  
 
-- Products: [https://www.nfiniity.com/index.html#hardware-section](https://www.nfiniity.com/index.html#hardware-section)
-- cubesys GitHub: [https://github.com/cubesys-GmbH](https://github.com/cubesys-GmbH)
-
+- **Products:** [nfiniity.com/hardware](https://www.nfiniity.com/index.html#hardware-section)  
+- **cubesys GitHub:** [github.com/cubesys](https://github.com/cubesys-GmbH)
+  
 ---
 
 ## Open-Source Projects
 
 We lead and contribute to key open-source projects in the V2X ecosystem:
 
-- **Vanetza** – ETSI-compliant ITS communication stack  
-  - Website: [https://www.vanetza.org/](https://www.vanetza.org/)
-  - GitHub: [https://github.com/riebl/vanetza](https://github.com/riebl/vanetza)
+| Project | Description | Website | GitHub |
+|---------|-------------|---------|--------|
+| **Vanetza** | ETSI-compliant ITS communication stack | [vanetza.org](https://www.vanetza.org/) | [riebl/vanetza](https://github.com/riebl/vanetza) |
+| **Artery** | V2X simulation framework for ETSI ITS-G5 | [artery.v2x-research.eu](http://artery.v2x-research.eu/) | [riebl/artery](https://github.com/riebl/artery) |
 
-- **Artery** – V2X simulation framework for ETSI ITS-G5  
-  - Website: [http://artery.v2x-research.eu/](http://artery.v2x-research.eu/)
-  - GitHub: [https://github.com/riebl/artery](https://github.com/riebl/artery)
+> 💡 Our open-source projects aim to accelerate innovation and foster collaboration across the connected mobility community.
 
 ---
 
 ## Get Involved
 
-We believe in the power of collaboration and welcome contributions from the community. Whether you're a seasoned developer or just getting started, there are many ways to participate:
+We welcome contributions from the community!  
 
-- **Contribute Code:** Fork our repositories, make enhancements or fix bugs, and submit pull requests.
-- **Report Issues:** Encountered a bug or have a suggestion for improvement? Open an issue on the respective project repository.
-- **Provide Feedback:** Share your thoughts and ideas with us. Your feedback helps us improve and grow.
+- **Contribute Code:** Fork, enhance, or fix bugs and submit pull requests.  
+- **Report Issues:** Found a bug or have an idea? Open an issue.  
+- **Provide Feedback:** Share your thoughts—your input drives improvement.  
 
 ---
 
-## Connect with Us
+## Our Vision
 
-Stay up to date with releases, news, and project updates:
-
-- Blog: [News and Blog](https://nfiniity.com/changelog.html)
-- LinkedIn: [nfiniity GmbH](https://www.linkedin.com/company/nfiniity)
-- Website: [https://www.nfiniity.com](https://nfiniity.com/)
-
+We believe in democratizing connected mobility for **vehicles, infrastructure, and micromobility**, combining cutting-edge V2X technology with open collaboration.  
