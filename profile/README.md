@@ -19,13 +19,6 @@ ITS-G5 and C-V2X — from protocol stack to applications
 
 We build V2X communication for connected, cooperative mobility, from the protocol stack up to high-level applications. Our platform connects vehicles, infrastructure, and vulnerable road users such as cyclists, motorcyclists, and pedestrians, and we maintain open-source V2X software for the research and developer community.
 
-![ITS-G5](https://img.shields.io/badge/ITS--G5-IEEE_802.11p-1c45fd?style=flat-square)
-![C-V2X](https://img.shields.io/badge/C--V2X-LTE--V2X_PC5-1c45fd?style=flat-square)
-![ETSI C-ITS](https://img.shields.io/badge/ETSI-C--ITS-1c45fd?style=flat-square)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 ## Open Source
 
 | Project | Description | |
